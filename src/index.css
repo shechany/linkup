@@ -1,0 +1,12 @@
+@font-face {
+  font-family:Dosis;
+  src: url(Dosis-Medium.ttf);
+}
+body {
+  margin: 0;
+  padding:16px;
+  font-family:Dosis;
+  font-size: 12px;
+  overflow-x: hidden;
+  background-color:white;
+}
