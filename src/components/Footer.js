@@ -1,10 +1,10 @@
-import React,{Component} from "react";
+import React, { Component } from "react";
 
 
-class Footer extends Component{
-    render(){
+class Footer extends Component {
+    render() {
         return (
-       <p>this is the footer</p>
+            <p>this is the footer</p>
         );
     }
 }
